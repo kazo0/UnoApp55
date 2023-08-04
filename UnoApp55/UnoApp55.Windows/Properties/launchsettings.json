@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"UnoApp55.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"UnoApp55.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
